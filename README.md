@@ -6,7 +6,7 @@ we collect the data from [Kaggle](https://www.kaggle.com/datasets/kmader/mias-ma
 
 The mini-MIAS database of mammograms .[Link](http://peipa.essex.ac.uk/pix/mias/)
 
-### Why we used CNN
+## Why we used CNN
 1-Pattern Recognition and Feature Extraction: CNNs are particularly effective at recognizing intricate patterns and extracting hierarchical features from images.
 
 2-Adaptability to Diverse Image Characteristics: Breast tissue density and other characteristics can vary among populations. CNNs are adaptable and can be trained on diverse datasets, making them suitable for accommodating variations in breast tissue composition specific to the Malaysian population.
