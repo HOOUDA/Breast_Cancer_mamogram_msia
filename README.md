@@ -18,3 +18,12 @@ The mini-MIAS database of mammograms .[Link](http://peipa.essex.ac.uk/pix/mias/)
 5-Large-Scale Data Processing: CNNs are capable of handling large datasets
 
 6-Continuous Learning and Improvement: CNNs can be designed to continuously learn and improve over time.
+## Results 📊
+
+| version | traning accuracy | test accuracy | f1 score | recall  | precision | Total Parameters|
+|--------|--------------|-------------|------------|----------|-------------|-------|
+|ResNet50 | 0.99 | 0.963 | 0.96 |  0.96  |0.97|47,929,410|
+| VGG19 |0.99|0.96|0.97|0.97|0.96 |47,929,410|
+| VGG16 |0.99|0.96|0.96|0.97|0.96 |42,619,714|
+
+
